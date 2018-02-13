@@ -1,0 +1,9 @@
+<hibernate-configuration>
+<session-factory name="hibernate/SessionFactory">
+	<property name="hibernate.connection.datasource">java:jboss/jaxwsrestDS</property>
+	<property name="hibernate.current_session_context_class">thread</property>
+	<property name="hibernate.transaction.factory_class">org.hibernate.transaction.JDBCTransactionFactory</property>
+	<property name="hibernate.dialect">org.hibernate.dialect.MySQL5InnoDBDialect</property>
+	<property name="hibernate.jdbc.batch_size">0</property>
+</session-factory>
+</hibernate-configuration>
