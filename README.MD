@@ -17,7 +17,7 @@ Exemplo de Aplicação Java JEE 6, utilizando Web Services SOAP e Restful, EJB 3
 
 7 - Deve-se renomear o arquivo persistence-prod.xml para persistence.xml.
 
-8 - Deve-se mapear as api's do Jboss no Eclipse para se utilizar da versão do hibernate que está dentro dele, deve-se fazer o download da úlitma versão do driver jdbc do Mysql, e instalá-lo no Jboss EAP 6.4.
+8 - Deve-se mapear as api's do Jboss no Eclipse para se utilizar da versão do Hibernate que está dentro dele, deve-se fazer o download da úlitma versão do driver jdbc do Mysql, e instalá-lo no Jboss EAP 6.4.
 
 9 - Deve-se criar no Jboss EAP 6 ou versão superior, um datasource com o nome java:jboss/testejavaDS.
 
@@ -56,7 +56,7 @@ Example of Java JEE 6 Application, using SOAP and Restful Web Services, EJB 3 St
 
 7 - You must rename the persistence-prod.xml file to persistence.xml.
 
-8 - You must map the Jboss api's in Eclipse to use the version of hibernate that is inside it, you must download the latest version of the Mysql jdbc driver, and install it in Jboss EAP 6.4.
+8 - You must map the Jboss api's in Eclipse to use the version of Hibernate that is inside it, you must download the latest version of the Mysql jdbc driver, and install it in Jboss EAP 6.4.
 
 9 - A datasource must be created in Jboss EAP 6 or higher version with the name java:jboss/testejavaDS.
 
