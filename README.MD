@@ -34,8 +34,7 @@ http://localhost:8080/test/testejavarest/A/B
 http://localhost:8080/test/testejavarest/C/D
 http://localhost:8080/test/testejavarest/E/F
 http://localhost:8080/test/testejavarest/G/H
-
-
+______________________________________________________________________________________________________________________________
 
 English:
 # Example of a JEE6 application using Web Services
